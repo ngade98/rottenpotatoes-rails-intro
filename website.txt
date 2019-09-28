@@ -1,0 +1,2 @@
+#run this to get link for rails server 
+rails s -p $PORT -b $IP
